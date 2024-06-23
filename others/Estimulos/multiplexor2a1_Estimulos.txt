@@ -1,0 +1,13 @@
+#Fichero de Estímulos de Multiplexor 2 a 1.
+#Device Name: Discovery2NI
+#Nombre: Izan Amador, Jorge Benavides
+#Fecha: 6 de Diciembre de 2022.
+#
+# Delay Time (ns)	Input (x0,x1,sel).
+
+  10 ns 010
+  10 ns 011
+  10 ns 010
+  10 ns 011
+  10 ns 010
+  10 ns 011

@@ -1,0 +1,15 @@
+#Fichero de Estímulos de Registro de Desplazamiento.
+#Device Name: Discovery2NI
+#Nombre: Izan Amador, Jorge Benavides
+#Fecha: 6 de Diciembre de 2022.
+#
+# Delay Time (ns)	Input (I).
+
+  20 ns 0
+  20 ns 1
+  20 ns 0
+  20 ns 1
+  20 ns 0
+  20 ns 1
+  20 ns 0
+  20 ns 1

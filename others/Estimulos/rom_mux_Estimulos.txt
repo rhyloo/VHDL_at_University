@@ -1,0 +1,15 @@
+#Fichero de Estímulos de ROM_MUX
+#Device Name: Discovery2NI
+#Nombre: Izan Amador, Jorge Benavides
+#Fecha: 7 de Diciembre de 2022.
+#
+# Delay Time (ns)	Input (Direccion [1:0]).
+
+# Secuencia correcta
+  20 ns		00
+  20 ns		01
+  20 ns		10
+  20 ns		11
+
+
+ 
