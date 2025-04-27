@@ -6,7 +6,7 @@ This repository contains the work done for the subject Electronic Systems for Au
 
 The main objective of the subject is to learn the principles of VHDL coding, as well as, formal verification with test benches and RTL.
 
-https://github.com/user-attachments/assets/84d13c5d-6670-478a-9c80-82556436672e
+[![Testing upcounter with Analog Discovery 2](https://img.youtube.com/vi/JD1RhhG8dyQ/0.jpg)](https://www.youtube.com/watch?v=JD1RhhG8dyQ)
 
 # List of projects
 
