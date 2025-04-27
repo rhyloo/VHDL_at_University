@@ -6,7 +6,7 @@ This repository contains the work done for the subject Electronic Systems for Au
 
 The main objective of the subject is to learn the principles of VHDL coding, as well as, formal verification with test benches and RTL.
 
-https://github.com/izanamador/SEA/assets/33180470/4b169f20-c342-408d-8115-dfe5aa10e6c0
+https://github.com/user-attachments/assets/84d13c5d-6670-478a-9c80-82556436672e
 
 # List of projects
 
